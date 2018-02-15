@@ -1,2 +1,2 @@
-# ProjectZed
-An upcoming Arma 3 mod featuring an open-world zombie surival.
+# ProjectZed - Description
+ProjectZed is an upcoming open world surival featuring zombies.
